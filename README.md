@@ -1,5 +1,5 @@
 # Getting Closer to Desired Destination
-My CSE Project (under Design & Analysis of Algorithms) in 5th Semester on 'Getting Closer to Desired Destination' using C++
+My CSE Project (under Design & Analysis of Algorithms) in 5th Semester on 'Getting Closer to Desired Destination' using C
 ----------------------------------------------------------------------------------------------------------------------------
 
 Problem Statement:
